@@ -3,7 +3,7 @@ Free and Open-Source Functions as a Service
 
 ## Todo
 - [ ] PoC function freeze / resume with cgroup freezer
-- [ ] Dockerize function freeze
+- [ ] Bundle up function freeze
 - [ ] Run on Kubernetes
 - [ ] Automate function packaging and deployment to Kubernetes 
 - [ ] Hot-load new function packages with running Kubernetes
